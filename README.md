@@ -62,9 +62,8 @@ NIDS-ML-Project/
 
 
 
-## 📊 Visualizations
-
-Add your model results here:
+##  Visualizations:
+My model results here:
 
 ### Confusion Matrix
 ![Confusion Matrix](https://raw.githubusercontent.com/ArifKhann275/Network-Intrusion-Detection-System-Using-ML/main/images/Confusion_Matrix.jpg)
