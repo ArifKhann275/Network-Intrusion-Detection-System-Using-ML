@@ -67,7 +67,7 @@ NIDS-ML-Project/
 Add your model results here:
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.jpg)
 
 ### Pipeline Diagram
 ![Pipeline](images/pipeline.png)
